@@ -1,6 +1,6 @@
 <h1>Hi, I'm Tambi! </h1>
 
-<h2>Cloud Computing</h2>
+<h2>DevOpps</h2>
 
 <h2>Certification</h2>
 
